@@ -1,0 +1,2 @@
+# wingamigos-privacy
+Privacy Data
